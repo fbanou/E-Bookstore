@@ -23,13 +23,3 @@ This repository includes the documentation and packaged admin, backend and front
 - **Authentication:** JWT  
 
 ---
-
-## Project Structure
-
-```text
-E-Bookstore/
-├─ BooksEshop.pdf   # Project documentation
-├─ admin.zip        # Admin panel
-├─ backend.zip      # API / server-side code
-└─ frontend.zip     # Customer-facing web app
----
