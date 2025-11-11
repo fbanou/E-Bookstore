@@ -15,11 +15,9 @@ This repository includes the documentation and packaged admin, backend and front
 
 ---
 
-## 🏗️ Tech Stack
+## ⚙ Technologies
 
 - **Frontend:** React  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB  
-- **Authentication:** JWT  
-
----
+- **Authentication:** JWT, axios  
