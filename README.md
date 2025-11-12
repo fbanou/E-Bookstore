@@ -11,7 +11,6 @@ This repository includes the documentation and packaged admin, backend and front
 - 🛍️ Browse books by category
 - 🧺 Add to cart and place orders  
 - 🧑‍💼 Admin panel for managing books
-- 🧾 REST API backend with secure routes  
 
 ---
 
