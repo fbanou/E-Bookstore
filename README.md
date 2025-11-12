@@ -19,4 +19,4 @@ This repository includes the documentation and packaged admin, backend and front
 - **Frontend:** React  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB  
-- **Authentication:** JWT, axios  
+- **Authentication:** JWT
